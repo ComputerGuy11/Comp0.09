@@ -1,4 +1,4 @@
-const cacheName = "GoofyGooberProductions-CompGuy-0.09";
+const cacheName = "GoofyGooberProductions-CompGuy-2025.6.21";
 const contentToCache = [
     "Build/Comp0.09.loader.js",
     "Build/Comp0.09.framework.js",
